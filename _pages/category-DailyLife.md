@@ -1,7 +1,7 @@
 ---
 title: "DailyLife"
 layout: archive
-permalink: categories/DailyLife
+permalink: /DailyLife
 author_profile: true
 sidebar_main: true
 ---
