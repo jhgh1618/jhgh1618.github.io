@@ -319,8 +319,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
-      sidebar:                  # 추가한 부분
-        nav: "sidebar-category" # 추가한 부분
+      show_date: true
+      sidebar: true
