@@ -12,14 +12,14 @@
       <ul>
         {% for category in site.categories %}
                     {% if category[0] == "DailyLife" %}
-                        <li><a href="/categories/Javascript" class="">Javascript ({{category[1].size}})</a></li>
+                        <li><a href="/categories/DailyLife" class="">DailyLife ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
       </ul>
       <ul>
         {% for category in site.categories %}
             {% if category[0] == "Lifetips" %}
-                <li><a href="/categories/HTML" class="">HTML ({{category[1].size}})</a></li>
+                <li><a href="/categories/Lifetips" class="">Lifetips ({{category[1].size}})</a></li>
             {% endif %}
         {% endfor %}
       </ul>
@@ -27,7 +27,7 @@
       <ul>
         {% for category in site.categories %}
                     {% if category[0] == "Blogger" %}
-                        <li><a href="/categories/GitPage" class="">GitPage ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Blogger" class="">Blogger ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
       </ul>
