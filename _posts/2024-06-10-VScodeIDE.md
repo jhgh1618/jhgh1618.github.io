@@ -12,4 +12,4 @@ categories:
 # 장점
 > 무료다!
 
-<img src="https://github.com/jhgh1618/jhgh1618.github.io/tree/master/images/2024-06-10-20-15-34.png">
+<img src="https://jhgh1618.github.io/images/2024-06-10-20-15-34.png">
