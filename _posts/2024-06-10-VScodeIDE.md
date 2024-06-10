@@ -12,4 +12,4 @@ categories:
 # 장점
 > 무료다!
 
-<img src="./images/2024-06-10-20-15-34.png">
+<img src="../images/2024-06-10-20-15-34.png">
