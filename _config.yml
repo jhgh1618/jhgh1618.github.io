@@ -323,4 +323,4 @@ defaults:
       share: true
       related: true
       show_date: true
-      sidebar: true
+      sidebar_main: true
