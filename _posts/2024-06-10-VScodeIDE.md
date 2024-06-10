@@ -12,6 +12,4 @@ categories:
 # 장점
 > 무료다!
 
-# 이미지
-> VSCode 캡쳐 한 모습이다.
 ![vscodecapture](./images/2024-06-10-20-15-34.png)
