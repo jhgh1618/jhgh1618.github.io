@@ -11,10 +11,10 @@
       <span class="nav__sub-title">Life</span>
       <ul>
         {% for category in site.categories %}
-                    {% if category[0] == "DailyLife" %}
-                        <li><a href="/categories/DailyLife" class="">DailyLife ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
+            {% if category[0] == "DailyLife" %}
+                <li><a href="/categories/DailyLife" class="">DailyLife ({{category[1].size}})</a></li>
+            {% endif %}
+        {% endfor %}
       </ul>
       <ul>
         {% for category in site.categories %}
@@ -26,10 +26,10 @@
       <span class="nav__sub-title">Git</span>
       <ul>
         {% for category in site.categories %}
-                    {% if category[0] == "Blogger" %}
-                        <li><a href="/categories/Blogger" class="">Blogger ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
+            {% if category[0] == "Blogger" %}
+                <li><a href="/categories/Blogger" class="">Blogger ({{category[1].size}})</a></li>
+            {% endif %}
+        {% endfor %}
       </ul>
     </li>
   </nav>
