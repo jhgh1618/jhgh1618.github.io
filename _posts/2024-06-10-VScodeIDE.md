@@ -13,4 +13,5 @@ categories:
 > 무료다!
 
 # 이미지
-![vscodecapture](/images/2024-06-10-20-15-34.png)
+> VSCode 캡쳐 한 모습이다.
+![vscodecapture](./images/2024-06-10-20-15-34.png)
