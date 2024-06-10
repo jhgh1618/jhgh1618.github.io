@@ -12,4 +12,4 @@ categories:
 # 장점
 > 무료다!
 
-![vscodecapture](./images/2024-06-10-20-15-34.png)
+<img src="_posts/images/biteApple.jpg">
