@@ -12,4 +12,4 @@ categories:
 # 장점
 > 무료다!
 
-<img src="_posts/images/biteApple.jpg">
+<img src="images/biteApple.jpg">
