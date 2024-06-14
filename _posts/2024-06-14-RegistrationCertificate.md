@@ -17,7 +17,7 @@ categories:
 # 2. 메인 화면에서 주민등록 아이콘 클릭
 #### 아래 이미지를 참고하세요.
 <br>
-<br>
+<img src="/assets/images/RegistrationCertificate_20240614/img1.png" width="90%" height="90%" title="주민등록아이콘"/>
 
 # 3. 출력 가능한 프린터인지 확인
 #### 민원 출력 불가 프린터가 있습니다. 확인 하세요.
